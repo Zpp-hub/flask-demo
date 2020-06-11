@@ -4,5 +4,5 @@ sentry-sdk[flask]
 pymysql
 scikit-learn
 matplotlib
--e git+git@git.vistel.cn:ai/common_lib.git#egg=common_lib
--e git+git@git.vistel.cn:ai/AIPreprocess.git#egg=AIPreProcess
+requests
+redis
