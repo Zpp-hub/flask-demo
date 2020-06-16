@@ -9,7 +9,7 @@ except ImportError:
 
 
 class ConfigHelper(object):
-    def __init__(self, config_path="/home/zpp/PycharmProjects/flask-demo/config/config.cfg"):
+    def __init__(self, config_path="../config/config.cfg"):
         self.config = Cp.ConfigParser()
         self.config.optionxform = str
         if os.path.exists(config_path):
