@@ -24,5 +24,5 @@ scipy==1.4.1
 sentry-sdk==0.14.4
 six==1.15.0
 threadpoolctl==2.1.0
-urllib3==1.25.9
+urllib3==1.26.5
 Werkzeug==1.0.1
